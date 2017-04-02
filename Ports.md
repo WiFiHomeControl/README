@@ -1,10 +1,10 @@
 # Portliste
 
 |Port|Bezeichnung|Side|
-|---|---|---|
+|:---:|:---:|:---:|
 |1337|Standard Port für alle Sensordaten|Modul|
 |1338|Standard Port für alle Moduldaten (Batterie etc.)|Modul|
-|1340|SocketIO Port für die gesamte RealTime Communication|Server|
+|1883|mqtt|Server, Client, Modul|
 
 
 Modul Side = alles, was mit den Modules zu tun hat
